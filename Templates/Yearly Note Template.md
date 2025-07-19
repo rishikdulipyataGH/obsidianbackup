@@ -1,0 +1,8 @@
+---
+date: 
+tags:
+  - dailynote
+cssclasses:
+---
+```
+```

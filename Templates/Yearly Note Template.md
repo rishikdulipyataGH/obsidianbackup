@@ -1,7 +1,7 @@
 ---
 date: 
 tags:
-  - dailynote
+  - "#yearlynote"
 cssclasses:
 ---
 ```

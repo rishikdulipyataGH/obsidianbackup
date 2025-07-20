@@ -27,3 +27,10 @@ nice to meet    you
 name = input("What is your name? ")
 
 ![[monkeyjpg-f0a30582aef21f0b.avif]]
+```sqlseal
+TABLE customers_100 = file(customers-100.csv)
+
+SELECT * FROM customers_100
+LIMIT 10
+```
+

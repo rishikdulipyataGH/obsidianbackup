@@ -34,3 +34,17 @@ SELECT * FROM customers_100
 LIMIT 10
 ```
 
+![[monkeyjpg-f0a30582aef21f0b.avif]]
+
+jddh
+s
+th
+sht
+s
+dh
+nzdrjneanzdr
+hjj
+h
+jkljkljkljklhjkl
+hjklhjkl
+hjklhjklhjklrsth
